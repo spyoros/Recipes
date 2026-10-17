@@ -3,7 +3,7 @@ body {
   border: 10px solid #0472A3;
 }
 
-.deescription {
+.deescription, .heading {
   text-align: center;
 }
 
