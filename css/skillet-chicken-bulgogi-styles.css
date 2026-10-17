@@ -3,6 +3,10 @@ body {
   border: 10px solid #0472A3;
 }
 
+.deescription {
+  text-align: center;
+}
+
 h1 {
   background: #00d973;
   font-family: papyrus, Garamond;
