@@ -1,0 +1,20 @@
+body {
+  background: #FCFAA6;
+  border: 10px solid #0472A3;
+}
+
+h1 {
+  background: #00d973;
+  font-family: papyrus, Garamond;
+  border-left: 10px solid #FCFAA6;
+  border-right: 10px solid #FCFAA6;
+}
+
+.title {
+  font-family: "Brush Script MT", Garamond;
+}
+
+pre, li {
+  font-family: 	"Courier New", Garamond;
+}
+
