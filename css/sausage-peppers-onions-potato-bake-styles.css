@@ -18,7 +18,7 @@ h1 {
   font-family: "Brush Script MT", Garamond;
 }
 
-pre, li {
+pre, li, .description {
   font-family: 	"Courier New", Garamond;
 }
 
